@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React and Angular.
 - 💞️ I’m looking to collaborate on internship opportunities and Hackathons.
 - 📫 How to reach me on linkedIn https://www.linkedin.com/in/anisha-bakshi-477910225/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Machine learning enthusiast.
+- 👨‍💻 working and improving Data structure and Algorithm.
 
 <!---
 Anishabyte/Anishabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
