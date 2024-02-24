@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anisha Baksh,Welcome to my Github.
+- 👋 Hi, I’m Anisha Bakshi,Welcome to my Github.
 - 👀 I’m interested in learning about new technologies in web development.
 - 🌱 I’m currently learning React and Angular.
 - 💞️ I’m looking to collaborate on internship opportunities and Hackathons.
