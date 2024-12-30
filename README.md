@@ -2,19 +2,19 @@
 <h3 align="center">Computer Science is'nt just my major-it's my passion project</h3>
 
 <img align="right" alt="coding"  width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning Neural Networks
 
-- 👯 I’m looking to collaborate on **Jobs and Internship opportunities.es.**
+- 👯 I’m looking to collaborate on Jobs and Internship opportunities.es.
 
-- 🤝 I’m looking for help with **Internships**
+- 🤝 I’m looking for help with Internships
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anishabyte](https://github.com/Anishabyte)
 
-- 💬 Ask me about **Machine Learning , Deep Learning ,Data visualization**
+- 💬 Ask me about Machine Learning , Deep Learning ,Data visualization
 
-- 📫 How to reach me **bakshi.anisha02@gmail.com**
+- 📫 How to reach me bakshi.anisha02@gmail.com
 
-- ⚡ Fun fact **I am an excellent Photographer**
+- ⚡ Fun fact I am an excellent Photographer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
